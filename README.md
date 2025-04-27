@@ -1,5 +1,5 @@
 # 📊 OLA Customer Segmentation Analysis
-
+![ola png](https://github.com/saicharannetha/OLA-customer-segmentation-analysis/blob/main/ola%20png.jpg)
 Welcome to the **OLA Customer Segmentation** project!  
 This project focuses on analyzing customer ride data for Ola Cabs using **SQL** for data exploration and **Power BI** for building an interactive dashboard that provides deep insights into customer behavior and ride patterns.
 
