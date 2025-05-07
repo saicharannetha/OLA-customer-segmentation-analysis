@@ -1,7 +1,7 @@
-# 📊 OLA Customer Segmentation Analysis
+# 🚖 OLA Customer Segmentation Analysis
 ![ola png](https://github.com/saicharannetha/OLA-customer-segmentation-analysis/blob/main/ola%20png.jpg)
 
-# 🚖 OLA Customer Segmentation Dashboard
+
 
 ## 🚀 Overview
 
